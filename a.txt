@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 c.txt v1
+b.txt v1
+>>>>>>> ca7e3fc57e9b8c1cfe5da7df882bdfb0f57a9c83
